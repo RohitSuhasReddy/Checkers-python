@@ -1,2 +1,2 @@
 # Checkers-python
-This Standard Checker game with GUI 
+This is Standard Checker game with GUI 
